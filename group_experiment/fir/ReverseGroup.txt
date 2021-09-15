@@ -1,0 +1,1770 @@
+aa
+ and aa
+aba
+ and aba
+abut
+ and tuba
+ad
+ and da
+ados
+ and soda
+aga
+ and aga
+agar
+ and raga
+agas
+ and saga
+agenes
+ and senega
+ah
+ and ha
+aha
+ and aha
+aider
+ and redia
+airts
+ and stria
+ajar
+ and raja
+ala
+ and ala
+alif
+ and fila
+alula
+ and alula
+am
+ and ma
+ama
+ and ama
+amen
+ and nema
+amis
+ and sima
+an
+ and na
+ana
+ and ana
+anger
+ and regna
+animal
+ and lamina
+animes
+ and semina
+anna
+ and anna
+anon
+ and nona
+ante
+ and etna
+are
+ and era
+ares
+ and sera
+aril
+ and lira
+arris
+ and sirra
+arum
+ and mura
+at
+ and ta
+ate
+ and eta
+ates
+ and seta
+auks
+ and skua
+ava
+ and ava
+avid
+ and diva
+avo
+ and ova
+awa
+ and awa
+ay
+ and ya
+bad
+ and dab
+bag
+ and gab
+bal
+ and lab
+bals
+ and slab
+ban
+ and nab
+bard
+ and drab
+bas
+ and sab
+bat
+ and tab
+bats
+ and stab
+bed
+ and deb
+ben
+ and neb
+bib
+ and bib
+bid
+ and dib
+big
+ and gib
+bin
+ and nib
+bins
+ and snib
+bird
+ and drib
+bis
+ and sib
+bob
+ and bob
+bog
+ and gob
+boob
+ and boob
+bos
+ and sob
+bots
+ and stob
+bows
+ and swob
+brad
+ and darb
+brag
+ and garb
+bub
+ and bub
+bud
+ and dub
+bun
+ and nub
+buns
+ and snub
+bur
+ and rub
+burd
+ and drub
+burg
+ and grub
+bus
+ and sub
+but
+ and tub
+buts
+ and stub
+cam
+ and mac
+cap
+ and pac
+cares
+ and serac
+civic
+ and civic
+cod
+ and doc
+cram
+ and marc
+cud
+ and duc
+da
+ and ad
+dab
+ and bad
+dad
+ and dad
+dag
+ and gad
+dah
+ and had
+dahs
+ and shad
+dam
+ and mad
+dap
+ and pad
+darb
+ and brad
+dart
+ and trad
+daw
+ and wad
+deb
+ and bed
+debut
+ and tubed
+decal
+ and laced
+dedal
+ and laded
+deed
+ and deed
+deem
+ and meed
+deep
+ and peed
+deeps
+ and speed
+deer
+ and reed
+dees
+ and seed
+defer
+ and refed
+degami
+ and imaged
+deified
+ and deified
+deifier
+ and reified
+deil
+ and lied
+deke
+ and eked
+deked
+ and deked
+del
+ and led
+deled
+ and deled
+delf
+ and fled
+deliver
+ and reviled
+dels
+ and sled
+demit
+ and timed
+denier
+ and reined
+denies
+ and seined
+denim
+ and mined
+denned
+ and denned
+dens
+ and sned
+depot
+ and toped
+depots
+ and stoped
+derat
+ and tared
+derats
+ and stared
+dessert
+ and tressed
+desserts
+ and stressed
+devas
+ and saved
+devil
+ and lived
+dew
+ and wed
+dewans
+ and snawed
+dewed
+ and dewed
+dexes
+ and sexed
+dial
+ and laid
+dialer
+ and relaid
+diaper
+ and repaid
+dib
+ and bid
+did
+ and did
+dig
+ and gid
+dim
+ and mid
+dinar
+ and ranid
+diols
+ and sloid
+dirts
+ and strid
+diva
+ and avid
+do
+ and od
+doc
+ and cod
+dog
+ and god
+dom
+ and mod
+don
+ and nod
+doom
+ and mood
+door
+ and rood
+dor
+ and rod
+dormin
+ and nimrod
+dorp
+ and prod
+dos
+ and sod
+dot
+ and tod
+drab
+ and bard
+drail
+ and liard
+draw
+ and ward
+drawer
+ and reward
+draws
+ and sward
+dray
+ and yard
+drib
+ and bird
+drub
+ and burd
+dual
+ and laud
+dub
+ and bud
+duc
+ and cud
+ducs
+ and scud
+dud
+ and dud
+duel
+ and leud
+duo
+ and oud
+dup
+ and pud
+dups
+ and spud
+eat
+ and tae
+edile
+ and elide
+edit
+ and tide
+eel
+ and lee
+eh
+ and he
+eke
+ and eke
+eked
+ and deke
+elide
+ and edile
+elides
+ and sedile
+em
+ and me
+eme
+ and eme
+emes
+ and seme
+emir
+ and rime
+emit
+ and time
+emits
+ and stime
+enol
+ and lone
+er
+ and re
+era
+ and are
+ere
+ and ere
+ergo
+ and ogre
+eros
+ and sore
+ervil
+ and livre
+eta
+ and ate
+etas
+ and sate
+etna
+ and ante
+eve
+ and eve
+even
+ and neve
+evil
+ and live
+eviler
+ and relive
+ewe
+ and ewe
+eye
+ and eye
+fer
+ and ref
+fila
+ and alif
+fires
+ and serif
+fled
+ and delf
+flog
+ and golf
+flow
+ and wolf
+fool
+ and loof
+gab
+ and bag
+gad
+ and dag
+gag
+ and gag
+gal
+ and lag
+gals
+ and slag
+gam
+ and mag
+gan
+ and nag
+gar
+ and rag
+garb
+ and brag
+gas
+ and sag
+gat
+ and tag
+gats
+ and stag
+gel
+ and leg
+gelder
+ and redleg
+get
+ and teg
+gib
+ and big
+gid
+ and dig
+gig
+ and gig
+gip
+ and pig
+girt
+ and trig
+gnar
+ and rang
+gnat
+ and tang
+gnats
+ and stang
+gnaws
+ and swang
+gnus
+ and sung
+gob
+ and bog
+god
+ and dog
+golf
+ and flog
+got
+ and tog
+grub
+ and burg
+gul
+ and lug
+gulp
+ and plug
+guls
+ and slug
+gum
+ and mug
+gums
+ and smug
+guns
+ and snug
+gut
+ and tug
+ha
+ and ah
+habus
+ and subah
+had
+ and dah
+hah
+ and hah
+hahs
+ and shah
+halalah
+ and halalah
+hales
+ and selah
+hallah
+ and hallah
+hap
+ and pah
+hay
+ and yah
+he
+ and eh
+hey
+ and yeh
+ho
+ and oh
+hoop
+ and pooh
+hop
+ and poh
+huh
+ and huh
+imaged
+ and degami
+is
+ and si
+it
+ and ti
+jar
+ and raj
+kaiak
+ and kaiak
+kay
+ and yak
+kayak
+ and kayak
+keek
+ and keek
+keel
+ and leek
+keels
+ and sleek
+keep
+ and peek
+keets
+ and steek
+kips
+ and spik
+knaps
+ and spank
+knar
+ and rank
+knits
+ and stink
+kook
+ and kook
+lab
+ and bal
+laced
+ and decal
+laded
+ and dedal
+lag
+ and gal
+lager
+ and regal
+laid
+ and dial
+lair
+ and rial
+lamina
+ and animal
+lap
+ and pal
+lares
+ and seral
+larum
+ and mural
+las
+ and sal
+laud
+ and dual
+led
+ and del
+lee
+ and eel
+leek
+ and keel
+leer
+ and reel
+lees
+ and seel
+leets
+ and steel
+leg
+ and gel
+leper
+ and repel
+leud
+ and duel
+level
+ and level
+lever
+ and revel
+levins
+ and snivel
+liar
+ and rail
+liard
+ and drail
+lied
+ and deil
+lin
+ and nil
+lion
+ and noil
+lira
+ and aril
+lit
+ and til
+live
+ and evil
+lived
+ and devil
+livre
+ and ervil
+lobo
+ and obol
+lone
+ and enol
+loof
+ and fool
+loom
+ and mool
+loons
+ and snool
+loop
+ and pool
+loops
+ and spool
+loot
+ and tool
+looter
+ and retool
+loots
+ and stool
+lop
+ and pol
+lotos
+ and sotol
+lug
+ and gul
+ma
+ and am
+mac
+ and cam
+macs
+ and scam
+mad
+ and dam
+madam
+ and madam
+maes
+ and seam
+mag
+ and gam
+map
+ and pam
+mar
+ and ram
+marc
+ and cram
+marcs
+ and scram
+marram
+ and marram
+mart
+ and tram
+mat
+ and tam
+maws
+ and swam
+may
+ and yam
+me
+ and em
+meed
+ and deem
+meet
+ and teem
+mem
+ and mem
+meter
+ and retem
+mho
+ and ohm
+mid
+ and dim
+mils
+ and slim
+mim
+ and mim
+mined
+ and denim
+minim
+ and minim
+mir
+ and rim
+mis
+ and sim
+mod
+ and dom
+mom
+ and mom
+mon
+ and nom
+mood
+ and doom
+mool
+ and loom
+moor
+ and room
+moot
+ and toom
+mot
+ and tom
+mug
+ and gum
+mum
+ and mum
+mura
+ and arum
+mural
+ and larum
+mures
+ and serum
+mus
+ and sum
+muts
+ and stum
+na
+ and an
+nab
+ and ban
+nag
+ and gan
+namer
+ and reman
+nap
+ and pan
+naps
+ and span
+neb
+ and ben
+neep
+ and peen
+nema
+ and amen
+net
+ and ten
+neve
+ and even
+neves
+ and seven
+new
+ and wen
+nib
+ and bin
+nil
+ and lin
+nimrod
+ and dormin
+nip
+ and pin
+nips
+ and spin
+nit
+ and tin
+no
+ and on
+nod
+ and don
+noil
+ and lion
+nolos
+ and solon
+nom
+ and mon
+nona
+ and anon
+noon
+ and noon
+nos
+ and son
+not
+ and ton
+notes
+ and seton
+now
+ and won
+nu
+ and un
+nub
+ and bun
+nun
+ and nun
+nus
+ and sun
+nut
+ and tun
+nuts
+ and stun
+oat
+ and tao
+obol
+ and lobo
+od
+ and do
+ogre
+ and ergo
+oh
+ and ho
+ohm
+ and mho
+oho
+ and oho
+on
+ and no
+oohs
+ and shoo
+oot
+ and too
+os
+ and so
+otto
+ and otto
+oud
+ and duo
+ova
+ and avo
+ow
+ and wo
+pac
+ and cap
+pacer
+ and recap
+pad
+ and dap
+pah
+ and hap
+pal
+ and lap
+pals
+ and slap
+pam
+ and map
+pan
+ and nap
+pans
+ and snap
+pap
+ and pap
+par
+ and rap
+part
+ and trap
+parts
+ and strap
+pas
+ and sap
+pat
+ and tap
+paw
+ and wap
+paws
+ and swap
+pay
+ and yap
+peed
+ and deep
+peek
+ and keep
+peels
+ and sleep
+peen
+ and neep
+peep
+ and peep
+pees
+ and seep
+pep
+ and pep
+per
+ and rep
+pets
+ and step
+pig
+ and gip
+pin
+ and nip
+pins
+ and snip
+pip
+ and pip
+pis
+ and sip
+pit
+ and tip
+plug
+ and gulp
+poh
+ and hop
+pol
+ and lop
+pols
+ and slop
+pooh
+ and hoop
+pool
+ and loop
+pools
+ and sloop
+poons
+ and snoop
+poop
+ and poop
+pop
+ and pop
+port
+ and trop
+ports
+ and strop
+pot
+ and top
+pots
+ and stop
+pow
+ and wop
+pows
+ and swop
+prat
+ and tarp
+prod
+ and dorp
+pud
+ and dup
+pup
+ and pup
+pupils
+ and slipup
+puris
+ and sirup
+pus
+ and sup
+put
+ and tup
+radar
+ and radar
+rag
+ and gar
+raga
+ and agar
+rail
+ and liar
+raj
+ and jar
+raja
+ and ajar
+ram
+ and mar
+rang
+ and gnar
+ranid
+ and dinar
+rank
+ and knar
+rap
+ and par
+raps
+ and spar
+rat
+ and tar
+rats
+ and star
+raw
+ and war
+ray
+ and yar
+re
+ and er
+rebus
+ and suber
+rebut
+ and tuber
+recap
+ and pacer
+recaps
+ and spacer
+redder
+ and redder
+redes
+ and seder
+redia
+ and aider
+redips
+ and spider
+redleg
+ and gelder
+redraw
+ and warder
+redrawer
+ and rewarder
+reed
+ and deer
+reel
+ and leer
+rees
+ and seer
+ref
+ and fer
+refed
+ and defer
+refer
+ and refer
+reflet
+ and telfer
+reflow
+ and wolfer
+regal
+ and lager
+regna
+ and anger
+reified
+ and deifier
+reifier
+ and reifier
+reined
+ and denier
+reknit
+ and tinker
+reknits
+ and stinker
+relaid
+ and dialer
+relit
+ and tiler
+relive
+ and eviler
+reman
+ and namer
+remeet
+ and teemer
+remit
+ and timer
+rennet
+ and tenner
+rep
+ and per
+repaid
+ and diaper
+repaper
+ and repaper
+repel
+ and leper
+repins
+ and sniper
+res
+ and ser
+retem
+ and meter
+retool
+ and looter
+revel
+ and lever
+reviled
+ and deliver
+reviver
+ and reviver
+reward
+ and drawer
+rewarder
+ and redrawer
+rial
+ and lair
+rim
+ and mir
+rime
+ and emir
+rod
+ and dor
+rood
+ and door
+room
+ and moor
+rot
+ and tor
+rotator
+ and rotator
+rotor
+ and rotor
+rub
+ and bur
+sab
+ and bas
+sag
+ and gas
+saga
+ and agas
+sagas
+ and sagas
+sal
+ and las
+sallets
+ and stellas
+sap
+ and pas
+saps
+ and spas
+sat
+ and tas
+sate
+ and etas
+saved
+ and devas
+saw
+ and was
+scam
+ and macs
+scares
+ and seracs
+scram
+ and marcs
+scud
+ and ducs
+seam
+ and maes
+secret
+ and terces
+seder
+ and redes
+sedile
+ and elides
+seed
+ and dees
+seeks
+ and skees
+seel
+ and lees
+seep
+ and pees
+seer
+ and rees
+sees
+ and sees
+seined
+ and denies
+selah
+ and hales
+selahs
+ and shales
+selles
+ and selles
+seme
+ and emes
+sememes
+ and sememes
+semes
+ and semes
+semina
+ and animes
+senega
+ and agenes
+ser
+ and res
+sera
+ and ares
+serac
+ and cares
+seracs
+ and scares
+seral
+ and lares
+seres
+ and seres
+serif
+ and fires
+serum
+ and mures
+seta
+ and ates
+seton
+ and notes
+seven
+ and neves
+sexed
+ and dexes
+sexes
+ and sexes
+shad
+ and dahs
+shah
+ and hahs
+shahs
+ and shahs
+shales
+ and selahs
+shoo
+ and oohs
+si
+ and is
+sib
+ and bis
+sim
+ and mis
+sima
+ and amis
+sip
+ and pis
+sirra
+ and arris
+sirs
+ and sris
+sirup
+ and puris
+sis
+ and sis
+sit
+ and tis
+six
+ and xis
+skees
+ and seeks
+skeets
+ and steeks
+skips
+ and spiks
+skua
+ and auks
+slab
+ and bals
+slag
+ and gals
+slap
+ and pals
+sled
+ and dels
+sleek
+ and keels
+sleep
+ and peels
+sleeps
+ and speels
+sleets
+ and steels
+slim
+ and mils
+slipup
+ and pupils
+slit
+ and tils
+sloid
+ and diols
+sloop
+ and pools
+sloops
+ and spools
+slop
+ and pols
+slug
+ and guls
+smart
+ and trams
+smug
+ and gums
+smuts
+ and stums
+snap
+ and pans
+snaps
+ and spans
+snaw
+ and wans
+snawed
+ and dewans
+snaws
+ and swans
+sned
+ and dens
+snib
+ and bins
+snip
+ and pins
+sniper
+ and repins
+snips
+ and spins
+snit
+ and tins
+snivel
+ and levins
+snool
+ and loons
+snoop
+ and poons
+snoops
+ and spoons
+snoot
+ and toons
+snot
+ and tons
+snow
+ and wons
+snub
+ and buns
+snug
+ and guns
+so
+ and os
+sob
+ and bos
+sod
+ and dos
+soda
+ and ados
+solon
+ and nolos
+solos
+ and solos
+son
+ and nos
+sore
+ and eros
+sos
+ and sos
+sotol
+ and lotos
+sow
+ and wos
+spacer
+ and recaps
+span
+ and naps
+spank
+ and knaps
+spans
+ and snaps
+spar
+ and raps
+spas
+ and saps
+spat
+ and taps
+spay
+ and yaps
+speed
+ and deeps
+speels
+ and sleeps
+spider
+ and redips
+spik
+ and kips
+spiks
+ and skips
+spin
+ and nips
+spins
+ and snips
+spirt
+ and trips
+spirts
+ and strips
+spit
+ and tips
+spool
+ and loops
+spools
+ and sloops
+spoons
+ and snoops
+sports
+ and strops
+spot
+ and tops
+spots
+ and stops
+sprat
+ and tarps
+sprits
+ and stirps
+spud
+ and dups
+sris
+ and sirs
+stab
+ and bats
+stag
+ and gats
+stang
+ and gnats
+star
+ and rats
+stared
+ and derats
+staw
+ and wats
+steek
+ and keets
+steeks
+ and skeets
+steel
+ and leets
+steels
+ and sleets
+stellas
+ and sallets
+step
+ and pets
+stets
+ and stets
+stew
+ and wets
+stime
+ and emits
+stink
+ and knits
+stinker
+ and reknits
+stirps
+ and sprits
+stob
+ and bots
+stool
+ and loots
+stop
+ and pots
+stoped
+ and depots
+stops
+ and spots
+stow
+ and wots
+stows
+ and swots
+strap
+ and parts
+straw
+ and warts
+stressed
+ and desserts
+stria
+ and airts
+strid
+ and dirts
+strips
+ and spirts
+strop
+ and ports
+strops
+ and sports
+strow
+ and worts
+struts
+ and sturts
+stub
+ and buts
+stum
+ and muts
+stums
+ and smuts
+stun
+ and nuts
+sturts
+ and struts
+sub
+ and bus
+subah
+ and habus
+suber
+ and rebus
+sum
+ and mus
+sun
+ and nus
+sung
+ and gnus
+sup
+ and pus
+swam
+ and maws
+swang
+ and gnaws
+swans
+ and snaws
+swap
+ and paws
+sward
+ and draws
+swat
+ and taws
+sway
+ and yaws
+swob
+ and bows
+swop
+ and pows
+swot
+ and tows
+swots
+ and stows
+ta
+ and at
+tab
+ and bat
+tae
+ and eat
+tag
+ and gat
+tam
+ and mat
+tang
+ and gnat
+tao
+ and oat
+tap
+ and pat
+taps
+ and spat
+tar
+ and rat
+tared
+ and derat
+tarp
+ and prat
+tarps
+ and sprat
+tas
+ and sat
+tat
+ and tat
+tav
+ and vat
+taw
+ and wat
+taws
+ and swat
+teem
+ and meet
+teemer
+ and remeet
+teg
+ and get
+telfer
+ and reflet
+ten
+ and net
+tenet
+ and tenet
+tenner
+ and rennet
+terces
+ and secret
+terret
+ and terret
+tew
+ and wet
+ti
+ and it
+tide
+ and edit
+til
+ and lit
+tiler
+ and relit
+tils
+ and slit
+time
+ and emit
+timed
+ and demit
+timer
+ and remit
+tin
+ and nit
+tinker
+ and reknit
+tins
+ and snit
+tip
+ and pit
+tips
+ and spit
+tis
+ and sit
+tit
+ and tit
+tod
+ and dot
+tog
+ and got
+tom
+ and mot
+ton
+ and not
+tons
+ and snot
+too
+ and oot
+tool
+ and loot
+toom
+ and moot
+toons
+ and snoot
+toot
+ and toot
+top
+ and pot
+toped
+ and depot
+tops
+ and spot
+tor
+ and rot
+tort
+ and trot
+tot
+ and tot
+tow
+ and wot
+tows
+ and swot
+trad
+ and dart
+tram
+ and mart
+trams
+ and smart
+trap
+ and part
+tressed
+ and dessert
+trig
+ and girt
+trips
+ and spirt
+trop
+ and port
+trot
+ and tort
+trow
+ and wort
+tub
+ and but
+tuba
+ and abut
+tubed
+ and debut
+tuber
+ and rebut
+tug
+ and gut
+tun
+ and nut
+tup
+ and put
+tut
+ and tut
+un
+ and nu
+vat
+ and tav
+vav
+ and vav
+wad
+ and daw
+wans
+ and snaw
+wap
+ and paw
+war
+ and raw
+ward
+ and draw
+warder
+ and redraw
+warts
+ and straw
+was
+ and saw
+wat
+ and taw
+wats
+ and staw
+waw
+ and waw
+way
+ and yaw
+wed
+ and dew
+wen
+ and new
+wet
+ and tew
+wets
+ and stew
+wo
+ and ow
+wolf
+ and flow
+wolfer
+ and reflow
+won
+ and now
+wons
+ and snow
+wop
+ and pow
+wort
+ and trow
+worts
+ and strow
+wos
+ and sow
+wot
+ and tow
+wots
+ and stow
+wow
+ and wow
+xis
+ and six
+ya
+ and ay
+yah
+ and hay
+yak
+ and kay
+yam
+ and may
+yap
+ and pay
+yaps
+ and spay
+yar
+ and ray
+yard
+ and dray
+yaw
+ and way
+yaws
+ and sway
+yay
+ and yay
+yeh
+ and hey

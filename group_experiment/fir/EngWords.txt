@@ -1,0 +1,2 @@
+Python can be easy to pick up whether you are a first time programmer or you are experienced with other languages(1,2,3). The following pages are a useful first step to get on your way writing programs with Python. 
+The community hosts conferences and meetups collaborates on code and much more Python documentation will help you along the way and the mailing lists will keep you in touch.
